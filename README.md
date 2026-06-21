@@ -154,4 +154,4 @@ Evitando conteúdo hardcoded dentro dos componentes JSX.
 
 ## 🎓 Projeto Acadêmico
 
-Portfólio desenvolvido como trabalho da faculdade.
+Portfólio desenvolvido por Heleno Lisboa para o trabalho da faculdade.
